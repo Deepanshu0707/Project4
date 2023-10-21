@@ -11,3 +11,6 @@ deepanshubisht00@gmail.com
 
 # Location
 Delhi
+
+# Laptop
+Dell
