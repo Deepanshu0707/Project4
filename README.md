@@ -12,5 +12,10 @@ deepanshubisht00@gmail.com
 # Location
 Delhi
 
+<<<<<<< HEAD
 # Laptop
 Dell
+=======
+# Smartphone 
+Iphone 11
+>>>>>>> feature
