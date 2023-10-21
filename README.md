@@ -11,3 +11,6 @@ deepanshubisht00@gmail.com
 
 # Location
 Delhi
+
+# Smartphone 
+Iphone 11
